@@ -8,6 +8,7 @@ public class TestTrain {
 	public static void main(String[] args) {
 		testTrain01();
 		testTrain02();
+		testTrain02();
 	}
 
 	public static void testTrain01() {
